@@ -69,14 +69,12 @@
 
 ###
 
-<h3 align="center">🎉 Fun Snake Animation</h3>
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBxY20wZmlwczU4ZzltcXA1cmc1NzkyYTBhZzA5ZTlkcnF5bzdpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oBdmZbbQebxvtxsT9P/giphy.gif"  />
 </div>
 
 ###
 
-<h3 align="center">🐍 GitHub Contribution Snake</h3>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake.svg" />
