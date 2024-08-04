@@ -1,6 +1,5 @@
-<h2 align="left">
-  Hi 👋! My name is Abdelrahman and I'm a Full-Stack Developer from Egypt <img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Flag_of_Egypt.svg/2560px-Flag_of_Egypt.svg.png" alt="Egyptian Flag" width="30" />
-</h2>
+<h2 align="left">Hi 👋! My name is Abdelrahman and I'm a Full-Stack Developer from Egypt</h2>
+
 
 ###
 
