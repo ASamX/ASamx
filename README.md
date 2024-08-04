@@ -59,4 +59,8 @@
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBxY20wZmlwczU4ZzltcXA1cmc1NzkyYTBhZzA5ZTlkcnF5bzdpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oBdmZbbQebxvtxsT9P/giphy.gif"  />
 </div>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 ###
