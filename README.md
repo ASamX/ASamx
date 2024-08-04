@@ -40,6 +40,12 @@
 ###
 
 <div align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ASamX&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.facebook.com/Abdelrahman.Sameh.15" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
@@ -58,6 +64,11 @@
 
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBxY20wZmlwczU4ZzltcXA1cmc1NzkyYTBhZzA5ZTlkcnF5bzdpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oBdmZbbQebxvtxsT9P/giphy.gif"  />
+</div>
+
+### ✍️Random Dev Quote
+<div align=""center>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
 <br clear="both">
