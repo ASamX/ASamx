@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
 </div>
 <h2 align="center">Hi 👋! My name is Abdelrahman and I'm a Full-Stack Developer from Egypt 🇪🇬 </h2>
-
+---
 
 ###
 
@@ -41,13 +41,13 @@
 </div>
 
 ###
----
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASamX&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top languages" />
 </div>
 
 ###
----
+
 <div align="center">
   <a href="https://www.facebook.com/Abdelrahman.Sameh.15" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -64,13 +64,13 @@
 </div>
 
 ###
----
+
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBxY20wZmlwczU4ZzltcXA1cmc1NzkyYTBhZzA5ZTlkcnF5bzdpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oBdmZbbQebxvtxsT9P/giphy.gif"  />
 </div>
 
 ###
----
+
 <br clear="both">
 
 <picture align="center">
