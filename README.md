@@ -1,11 +1,13 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
 </div>
-<h2 align="center">Hi 👋! I'm Abdelrahman, a Full-Stack Developer from Egypt 🇪🇬 </h2>
-<p align="center">Passionate about building web applications and exploring new technologies.</p>
+
+<h2 align="center">Hello there! 👋 I'm Abdelrahman</h2>
+<p align="center">A Full-Stack Developer from Egypt 🇪🇬 passionate about crafting elegant and efficient web applications.</p>
 
 ###
 
+<h3 align="center">🛠️ My Tech Stack</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="20" />
@@ -42,12 +44,14 @@
 
 ###
 
+<h3 align="center">📈 GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASamX&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top languages" />
 </div>
 
 ###
 
+<h3 align="center">📫 Get in Touch</h3>
 <div align="center">
   <a href="https://www.facebook.com/Abdelrahman.Sameh.15" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -65,14 +69,14 @@
 
 ###
 
+<h3 align="center">🎉 Fun Snake Animation</h3>
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBxY20wZmlwczU4ZzltcXA1cmc1NzkyYTBhZzA5ZTlkcnF5bzdpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oBdmZbbQebxvtxsT9P/giphy.gif"  />
 </div>
 
 ###
 
-<br clear="both">
-
+<h3 align="center">🐍 GitHub Contribution Snake</h3>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake.svg" />
@@ -81,4 +85,6 @@
 
 ###
 
-<img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
+<div align="center">
+  <img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
+</div>
