@@ -63,8 +63,8 @@
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake.gif" />
-  <img alt="github-snake" src="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ###
