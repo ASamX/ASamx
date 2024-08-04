@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
 </div>
-<h2 align="center">Hi 👋! My name is Abdelrahman and I'm a Full-Stack Developer from Egypt 🇪🇬 </h2>
+<h2 align="center">Hi 👋! I'm Abdelrahman, a Full-Stack Developer from Egypt 🇪🇬 </h2>
+<p align="center">Passionate about building web applications and exploring new technologies.</p>
 
 ###
 
@@ -74,9 +75,10 @@
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ###
+
 <img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
