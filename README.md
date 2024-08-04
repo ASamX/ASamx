@@ -5,7 +5,7 @@
 
 
 ###
-<h3 align="left">Languages and Tools:</h3>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="20" />
@@ -41,13 +41,13 @@
 </div>
 
 ###
-
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASamX&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top languages" />
 </div>
 
 ###
-
+---
 <div align="center">
   <a href="https://www.facebook.com/Abdelrahman.Sameh.15" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -64,13 +64,13 @@
 </div>
 
 ###
-
+---
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBxY20wZmlwczU4ZzltcXA1cmc1NzkyYTBhZzA5ZTlkcnF5bzdpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oBdmZbbQebxvtxsT9P/giphy.gif"  />
 </div>
 
 ###
-
+---
 <br clear="both">
 
 <picture align="center">
