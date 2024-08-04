@@ -61,5 +61,10 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/<seu ASamX>/<seu ASamX>/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake2.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake2.svg" />
+  <img alt="github-snake" src="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake2.svg" />
+</picture>
+
 ###
