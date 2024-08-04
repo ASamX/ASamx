@@ -59,12 +59,7 @@
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBxY20wZmlwczU4ZzltcXA1cmc1NzkyYTBhZzA5ZTlkcnF5bzdpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oBdmZbbQebxvtxsT9P/giphy.gif"  />
 </div>
 
-<br>
+<br clear="both">
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+![snake animation](https://github.com/<seu ASamX>/<seu ASamX>/blob/output/github-contribution-grid-snake2.svg)
 ###
