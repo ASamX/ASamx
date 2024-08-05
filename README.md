@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="center">Hello there! 👋 I'm Abdelrahman</h2>
-<p align="center">A Full-Stack Developer from Egypt 🇪🇬 passionate about crafting elegant and efficient web applications.</p>
+<p align="center">I'm a Full-Stack Developer from Egypt 🇪🇬, dedicated to crafting elegant and efficient web applications. Welcome to my GitHub profile!</p>
 
 ---
 
