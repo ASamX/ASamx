@@ -102,5 +102,5 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/ASamX/ASamX/assets/banner-footer.gif" style="max-width: 100%;">
+  <img src="[https://github.com/ASamX/ASamX/assets/banner-footer.gif](https://github.com/ASamX/ASamX/blob/main/assets/banner-footer.gif)" style="max-width: 100%;">
 </div>
