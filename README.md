@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
 </div>
 
-<h2 align="center">Hello there! ![image](https://github.com/user-attachments/assets/ef59b6ef-0f3b-4d7f-9c68-3427c56ff876)
+<h2 align="center">Hello there! 👋
  I'm Abdelrahman</h2>
 <p align="center">A Full-Stack Developer from Egypt 🇪🇬 passionate about crafting elegant and efficient web applications.</p>
 
