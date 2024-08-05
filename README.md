@@ -1,5 +1,3 @@
-<div style="background-color: #003366; padding: 20px; border-radius: 10px; color: #ffffff;">
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
 </div>
@@ -80,13 +78,11 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake.svg" style="max-height: 500px;" />
+  <img alt="github-snake" src="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 ###
 
 <div align="center">
   <img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
-</div>
-
 </div>
