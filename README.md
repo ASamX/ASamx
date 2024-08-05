@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="center">📫 Get in Touch</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35"/> Get in Touch</h3>
 <div align="center">
   <a href="https://www.facebook.com/Abdelrahman.Sameh.15" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
