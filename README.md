@@ -7,7 +7,7 @@
 
 ###
 
-<hr style="border: 1px solid blue;">
+<div style="width: 100%; height: 4px; background: linear-gradient(to right, #ff7e5f, #feb47b);"></div>
 
 
 <h3 align="center">🛠️ My Tech Stack</h3>
