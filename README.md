@@ -2,13 +2,19 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
 </div>
 
-<h2 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
- I'm Abdelrahman</h2>
+<h2 align="center">
+  Hello there! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;"/>
+  I'm Abdelrahman
+</h2>
 <p align="center">A Full-Stack Developer from Egypt 🇪🇬 passionate about crafting elegant and efficient web applications.</p>
 
 ###
 
-<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Tech Stack</h3>
+<h3 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30" style="vertical-align: middle;"/>
+  My Tech Stack
+</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="20" />
@@ -43,17 +49,22 @@
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo" />
 </div>
 
-
 ###
 
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats</h3>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;"/>
+  GitHub Stats
+</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASamX&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="top languages" />
 </div>
 
 ###
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30"/> Get in Touch</h3>
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" style="vertical-align: middle;"/>
+  Get in Touch
+</h3>
 <div align="center">
   <a href="https://www.facebook.com/Abdelrahman.Sameh.15" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
@@ -78,10 +89,12 @@
 ###
 
 <div align="center">
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="30" /> Random Dev Quote</h3>
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="30" style="vertical-align: middle;"/>
+    Random Dev Quote
+  </h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </div>
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake-dark.svg" />
