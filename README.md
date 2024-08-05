@@ -7,6 +7,9 @@
 
 ###
 
+[![-----------------------------------------------------](
+[https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png](https://static.vecteezy.com/system/resources/previews/023/840/891/non_2x/blue-horizontal-lens-flares-laser-beams-horizontal-light-rays-beautiful-light-flares-glowing-streaks-on-transparent-background-glowing-stripes-luminous-abstract-sparkling-laser-beams-png.png))]
+
 <h3 align="center">🛠️ My Tech Stack</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
