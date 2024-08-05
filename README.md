@@ -6,7 +6,7 @@
  I'm Abdelrahman</h2>
 <p align="center">A Full-Stack Developer from Egypt 🇪🇬 passionate about crafting elegant and efficient web applications.</p>
 
-###
+### ---
 
 <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Tech Stack</h3>
 <div align="center">
