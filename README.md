@@ -76,8 +76,10 @@
 
 ###
 
-### ✍️ Random Dev Quote
+<h3 align="center">✍️ Random Dev Quote</h3>
+<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ASamX/ASamX/blob/output/github-contribution-grid-snake-dark.svg" />
