@@ -79,7 +79,7 @@
 ###
 
 <div align="center">
-  <h3>✍️ Random Dev Quote</h3>
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing Hand" width="35" /> Random Dev Quote</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </div>
 
