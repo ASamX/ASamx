@@ -43,7 +43,6 @@
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo" />
 </div>
 
----
 
 ###
 
