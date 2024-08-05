@@ -102,5 +102,5 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">
+  <img src="https://github.com/ASamX/ASamX/assets/banner-footer.png" style="max-width: 100%;">
 </div>
