@@ -43,6 +43,8 @@
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo" />
 </div>
 
+---
+
 ###
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats</h3>
